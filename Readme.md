@@ -10,9 +10,8 @@ Used Javascript, D3 library, Plotly to create an interactive dashboard to visual
 5. fucntion was added to update the dashboard when a new dataset is selcted using dropdown menu.
 console.log(); was used at several instance to monitor the outputs.
 
-# Dashboard is deployed on github. https://pandeykk-kris.github.io/belly-button-challenge/
-
 # Result shows that bacteria are present at very high number on our body. 
 Infact, per scientists we have nearly similar number of bacteria as our total cell numbers. Most of the bacteria do not harm humans and may be beneficial in several instances.
 
-
+# Dashboard is deployed on github. 
+https://pandeykk-kris.github.io/belly-button-challenge/
